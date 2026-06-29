@@ -1,4 +1,4 @@
-# 🇩🇪 German AI Prompt Library
+# German AI Prompt Library
 
 A curated collection of AI prompts, workflows, and prompt engineering experiments designed to make German language learning more interactive, personalized, and effective.
 
