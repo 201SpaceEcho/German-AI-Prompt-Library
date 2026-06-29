@@ -1,24 +1,39 @@
-# German AI Prompt Library
+# 🇩🇪 German AI Prompt Library
 
-A collection of AI prompts and workflows designed to make German language learning more interactive, personalized, and effective.
+A curated collection of AI prompts, workflows, and prompt engineering experiments designed to make German language learning more interactive, personalized, and effective.
 
 ## About
 
-This project is a growing library of prompts I've developed and tested for learning German with AI language models such as ChatGPT.
+This project is a growing library of prompts I've developed and tested for learning German using AI language models such as ChatGPT.
 
-The prompts are organised by learning objective and are intended to help learners improve vocabulary, grammar, conversation, pronunciation, writing, and exam preparation.
+Rather than simply collecting prompts, the aim is to evaluate how different prompting strategies influence learning outcomes. Each prompt is designed for a specific learning objective and can be adapted to different proficiency levels.
 
-## Contents
+## Objectives
 
-- Vocabulary
-- Grammar
-- Conversation
-- Writing
-- Pronunciation
-- Exam Preparation
+- Create reusable prompts for German learners.
+- Explore effective AI-assisted language learning.
+- Experiment with prompt engineering techniques.
+- Document practical AI workflows for language acquisition.
+- Continuously refine prompts through testing and iteration.
 
-## Goals
+## Categories
 
-- Create reusable prompts for German learners
-- Explore effective AI-assisted language learning
-- Continuously improve prompts through testing
+- 📖 Vocabulary
+- ✍️ Grammar
+- 💬 Conversation
+- 📝 Writing
+- 🔊 Pronunciation
+- 🎓 Exam Preparation
+
+## Planned additions
+
+- Prompt effectiveness notes
+- Example conversations
+- Prompt variations
+- AI model comparisons (ChatGPT, Claude, Gemini)
+- Learning workflows and study routines
+- Resources for German learners
+
+## License
+
+This repository is open for anyone interested in experimenting with AI-assisted language learning.
