@@ -6,4 +6,5 @@
 
 ## Conversation Practice
 
-![Conversation example](conversation.png)
+<img width="1252" height="864" alt="image" src="https://github.com/user-attachments/assets/e8397bca-bf47-4057-8b9c-40777228a506" />
+
