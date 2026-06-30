@@ -8,6 +8,12 @@ This project is a growing library of prompts I've developed and tested for learn
 
 Rather than simply collecting prompts, the aim is to evaluate how different prompting strategies influence learning outcomes. Each prompt is designed for a specific learning objective and can be adapted to different proficiency levels.
 
+## Approach
+
+This repository is structured as a set of experimental AI learning tools rather than a static prompt collection.
+
+Each prompt is designed, tested, and iterated based on observed learning outcomes.
+
 ## Objectives
 
 - Create reusable prompts for German learners.
